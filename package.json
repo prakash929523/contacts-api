@@ -1,0 +1,19 @@
+{
+  "name": "contacts-app",
+  "version": "1.0.0",
+  "description": "\"developing contact app\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "prakash",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "sequelize": "^4.38.0",
+    "sqlite3": "^4.0.2",
+    "underscore": "^1.9.1"
+  },
+  "devDependencies": {}
+}
